@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="226abadd-83e2-476a-8026-e5a539c89a0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/testP/poke/src/views/Pokémon_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testP/poke/src/views/login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testP/poke/src/views/pok.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testP/poke/src/views/register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testP/poke/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/testP/poke/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testP/poke/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/testP/poke/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testP/poke/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/testP/poke/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testP/poke/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/testP/poke/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testP/poke/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/testP/poke/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testP/poke/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/testP/poke/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testP/poke/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/testP/poke/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testP/poke/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/testP/poke/src/store/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/testP/poke" />
+  </component>
+  <component name="ProjectId" id="223C36qjnTPctQslr6OnWocRDKi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GitHub/D-POK-100-PAR_group-11/FrontEnd" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="226abadd-83e2-476a-8026-e5a539c89a0a" name="Changes" comment="" />
+      <created>1639056681664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639056681664</updated>
+      <workItem from="1639056682867" duration="40951000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
